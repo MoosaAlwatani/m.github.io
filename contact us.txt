@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact Us</title>
+
+<style>
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+body{
+  background-image:url("https://static.vecteezy.com/system/resources/previews/001/905/564/non_2x/light-pink-background-free-photo.jpg");
+
+.center 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Contact Us</h1>
+
+<img src="Instagram.png" class="center" width="250px" height"250px"> 
+<button type="button" onclick="alert('@GoldFlames_')">Follow us!</button>
+<br>
+<img src="Phone.png" class="center" width="150px" height"200px"> <button type="button" onclick="alert('Call Ongoing')">Call us!</button>
+<br>
+<img src="Facebook.png" class="center" width="250px" height"250px">
+<button type="button" onclick="alert('@GoldFlames_')">Follow us!</button>

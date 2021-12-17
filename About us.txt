@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Us</title>
+
+<style>
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+h4 {
+  text-align: center;
+}
+
+body{
+  background-image:url("https://static.vecteezy.com/system/resources/previews/001/905/564/non_2x/light-pink-background-free-photo.jpg");
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+</style>
+</head>
+<body>
+
+<h1>About Us</h1>
+
+<p>Golden flames is the number 1 online candle shop launched to satisfy all candle lovers, the fragrances are made with care, our number one goal is to satisfy our customers needs therefore wwe're working on launching a live chat page that directly passes you to one of our workers to have a conversation with, 20% of our profit goes to homeless people around the world, so by purchasing a candle you're not only getting one of the best candles in the world you're also helping save the lives of the people in need 
+</p>
+
+<p><a href="file:///C:/Users/Lenovo/Desktop/contact%20us.html">
+<img src="Bath.png" class="center" width="5000px" height"2500px" >

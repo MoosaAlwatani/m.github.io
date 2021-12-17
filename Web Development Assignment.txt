@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Golden Flames</title>
+<style>
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+body{
+  background-image:url("https://static.vecteezy.com/system/resources/previews/001/905/564/non_2x/light-pink-background-free-photo.jpg");
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+</style>
+</head>
+<body>
+
+
+
+<h1>Golden Flames</h1>
+<hr>
+<h2><a href="file:///C:/Users/Lenovo/Desktop/Candles.html">Candles</a> | <a href="file:///C:/Users/Lenovo/Desktop/About%20us.html">About Us</a> | <a href="file:///C:/Users/Lenovo/Desktop/contact%20us.html">Contact Us</a></h2>
+</hr>
+
+<p>New holiday fragrances are here! Make the season your own with our Signature Candles — a whole new way to experience inspiring fragrances and tried-and-true favorites.
+</p>
+
+<p><a href="file:///C:/Users/Lenovo/Desktop/Candles.html">
+<H1><img src="candlesale.png" class="center" width="1000px" height"580px">
+</body>
+</html>
+
